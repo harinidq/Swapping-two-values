@@ -30,7 +30,7 @@ a=temp
 print("Swapped values are:",a,b)
 ```
 ##OUTPUT
-![output](/![Screenshot from 2022-09-17 12-15-05](https://user-images.githubusercontent.com/113497680/190844342-1b70be9a-fb71-4b28-8c62-b5a6cca30ad5.png)
+![Screenshot from 2022-09-17 12-15-05](https://user-images.githubusercontent.com/113497680/190844342-1b70be9a-fb71-4b28-8c62-b5a6cca30ad5.png)
 
 
 
